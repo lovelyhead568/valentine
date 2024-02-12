@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "Sí mi corazón<33";
+  titleElement.innerHTML = "Yayy,te amo mi corazon<3";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
